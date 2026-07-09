@@ -1,0 +1,34 @@
+id,question
+3,诸葛亮在“隆中对”中为刘备提出了怎样的战略规划？
+4,"How many images in ""number_image"" contain exactly one digit?"
+5,"How many images in ""number_image"" contain a blue digit?"
+6,"Học bổng ngoài ngân sách nào của Đại học Quốc gia Hà Nội có số lượng suất trao nhiều nhất? Yêu cầu trả về duy nhất tên học bổng viết dưới dạng chữ hoa, không kèm theo tên quốc gia."
+7,"Determine the correlation coefficient between the ""Limit"" and ""Balance"" columns in the Credit.csv file where ""correlation_value"" is the calculated Pearson correlation coefficient between ""Limit"" and ""Balance"", rounded to two decimal places."
+8,"Project core nào của AXIOM - iSE có nhiều thành viên hiện tại nhất, không tính số SV mới? Yêu cầu chỉ trả về đúng số thứ tự của project được định nghĩa trong tài liệu."
+9,What city contained in both the southern and western hemispheres has the highest population?
+10,"Đối với môn học Kinh tế chính trị, nền kinh tế thị trường định hướng XHCN ở Việt Nam là gì?"
+11,Cho tôi xem ảnh các thành viên của nhóm iSE đi hihihi
+12,"Điểm chung chính trong cách các dự án thư viện thông minh, làm sạch sông Minh Hoa và NovaCare tạo ra tác động bền vững là gì?"
+13,"Điểm trung bình môn Toán của lớp 10A1 là bao nhiêu? Hãy lựa chọn đáp án đúng trong các đáp án dưới đây
+A. 7.45
+B. 7.50
+C. 7.55
+D. 7.60"
+14,"Based on the audio meeting summary for the AI workshop for first-year students on March 22, 2026, what was the total number of workshop participants?"
+15,Các hãng hàng không xuất hiện trong báo cáo nghiên cứu tài chính ngành hàng không của Việt Nam là gì?
+16,"Trong file class_grades.sql, có bao nhiêu học sinh lớp 10A1 có điểm tiếng Anh từ 8.5 trở lên?"
+17,File archeology/roman_cities.csv có bao nhiêu dòng dữ liệu về các thành phố?
+18,Nhóm tình nguyện nào đã khởi xướng dự án làm sạch sông Minh Hoa?
+19,"Học bổng lớn nhất cho sinh viên có kết quả học tập lớn hơn 3.0 trở lên từ ĐHQGHN trong năm học 2022-2023 là học bổng nào? Chỉ cần trả lời tên học bổng dưới dạng viết hoa, không cần tên quốc gia hay giá trị học bổng"
+20,Có bao nhiêu citation trong báo cáo nghiên cứu tài chính ngành hàng không của Việt Nam
+21,"Theo danh mục Brecke, cuộc xung đột Russia-Byzantium diễn ra vào năm nào và ghi nhận bao nhiêu thương vong?"
+22,Cuộc xung đột Magyars-Moravia (Hungary) bắt đầu và kết thúc vào những năm nào?
+23,Tọa độ địa lý (kinh độ và vĩ độ) của thành phố cổ Buthrotum (Butrinto) tại Albania là bao nhiêu?
+24,Thành phố cổ cổ nhất trong danh sách trích xuất thuộc tỉnh (Province) Achaea là gì và năm bắt đầu (Start Date) của nó là bao nhiêu?
+25,Tính khoảng cách vĩ độ (Latitude Y) giữa hai thành phố cổ Abae và Acharnae dựa trên dữ liệu tọa độ gốc.
+26,Có bao nhiêu thành phố La Mã được ghi nhận thuộc quốc gia 'Greece' trong phân đoạn dữ liệu từ Hanson2016_1 đến Hanson2016_15?
+27,Tìm thành phố duy nhất trong dải dữ liệu đầu có năm kết thúc (End Date) được xác định cụ thể là -30 thay vì để giá trị trống (NULL).
+28,Có bao nhiêu gen có ý nghĩa quan trọng (significant genes) được phát hiện thông qua phương pháp phân tích acetylproteomics trong nghiên cứu này?
+29,Những vị trí protein (protein sites) cụ thể nào biểu hiện tăng hoạt hóa (hyperactivated) trong phân nhóm mẫu nội mạc tử cung có mức biến đổi số lượng bản sao (CNV-high) và đang là mục tiêu điều trị của các thuốc được FDA phê duyệt?
+30,Chữ số đơn lẻ dạng khối 3D màu xanh lam (blue) đứng vuông góc trên nền trắng trong tệp 'istockphoto.jpg' là số mấy?
+31,Có bao nhiêu dòng dữ liệu (rows) trong file cost_data_with_errors.csv chứa giá trị bị thiếu (NULL/NaN) ở cột 'Total_Cost'?

@@ -1,0 +1,8 @@
+__pycache__
+venv
+Data-Lake
+dlake
+processed_files
+all_profiles.json
+submission.csv
+submission1.csv
